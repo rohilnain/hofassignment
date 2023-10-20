@@ -1,4 +1,3 @@
-# hofassignment solving assignment given to us on higher order fucntion application
 
  	Assignment Title: Exploring Higher-Order Functions in JavaScript
 
